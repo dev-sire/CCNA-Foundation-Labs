@@ -1,7 +1,6 @@
-# CCNA Practice Labs
+# CCNA Foundational Labs
 
-I studied this course with <a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>.
-
+Dive into the world of Cisco networking with these beginner-friendly CCNA labs. Covering core topics, these exercises offer practical experience with device configuration and troubleshooting.
 
 `Here are a few tips to get you started:`
 
